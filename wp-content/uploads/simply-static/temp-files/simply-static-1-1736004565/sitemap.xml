@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on January 4, 2025 at 3:36 pm by All in One SEO v4.7.5.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://webeo-pk.github.io/wpproject/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://webeo-pk.github.io/wpproject/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2025-01-01T14:06:29+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://webeo-pk.github.io/wpproject/product-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-12-31T14:23:20+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://webeo-pk.github.io/wpproject/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-11-14T04:27:51+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://webeo-pk.github.io/wpproject/product_cat-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-12-31T14:25:19+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
